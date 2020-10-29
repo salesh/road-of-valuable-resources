@@ -28,7 +28,8 @@ with vanilla JavaScript only?](https://htmldom.dev/)
 #### Articles
 * [4 Essential Steps to Securing a VPS
 ](https://maximorlov.com/4-essential-steps-to-securing-a-vps/)
-
+* [Gentle Explanation of "this" in JavaScript
+](https://dmitripavlutin.com/gentle-explanation-of-this-in-javascript/)
 
 #### Weekly email newsletter
 
@@ -37,3 +38,4 @@ with vanilla JavaScript only?](https://htmldom.dev/)
 * [Pointer weekly](http://www.pointer.io/)
 * [Better Dev Link weekly](https://betterdev.link/)
 * [Hackernewsletter weekly](https://hackernewsletter.com/)
+* [Programming Digest](https://programmingdigest.net/)
