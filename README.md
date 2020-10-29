@@ -24,6 +24,7 @@ with vanilla JavaScript only?](https://htmldom.dev/)
 ](https://openbase.io/)
 * [Measure your site](https://web.dev/measure/)
 * [Software Licenses in Plain English](https://tldrlegal.com/)
+* [Can I use in browser](https://caniuse.com/)
 
 #### Articles
 * [4 Essential Steps to Securing a VPS
