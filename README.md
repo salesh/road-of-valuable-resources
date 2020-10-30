@@ -16,8 +16,11 @@ Idea of this repository is to have on one place track of all valuable resources 
 * [The Pragmatic Programmer, 20th Anniversary Edition
 ](https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/)
 
+#### JS resource
+* [The Modern JavaScript Tutorial
+](https://javascript.info/)
 
-#### Useful websites
+#### Useful websites/tools
 * [how to manage HTML DOM
 with vanilla JavaScript only?](https://htmldom.dev/)
 * [Choose the right JS package every time
