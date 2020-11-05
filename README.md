@@ -45,6 +45,7 @@ with vanilla JavaScript only?](https://htmldom.dev/)
 * [Better Dev Link weekly](https://betterdev.link/)
 * [Hackernewsletter weekly](https://hackernewsletter.com/)
 * [Programming Digest](https://programmingdigest.net/)
+* [3-2-1 Thursday](https://jamesclear.com/3-2-1)
 
 #### Events 
 
