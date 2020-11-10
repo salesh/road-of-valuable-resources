@@ -11,6 +11,8 @@ Idea of this repository is to have on one place track of all valuable resources 
 ](https://youtu.be/8aGhZQkoFbQ)
 * [YouTube - Mastering Chaos - A Netflix Guide to Microservices
 ](https://youtu.be/CZ3wIuvmHeM)
+* [YouTube - Jake Archibald: In The Loop - JSConf.Asia
+](https://youtu.be/cCOL7MC4Pl0)
 
 #### Books
 * [The Pragmatic Programmer, 20th Anniversary Edition
