@@ -52,3 +52,8 @@ with vanilla JavaScript only?](https://htmldom.dev/)
 #### Events 
 
 * [NodeConf](https://www.nodeconfremote.com/)
+
+
+###Github
+
+* [Project guidelines](https://github.com/elsewhencode/project-guidelines)
