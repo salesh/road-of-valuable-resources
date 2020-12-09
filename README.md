@@ -57,3 +57,4 @@ with vanilla JavaScript only?](https://htmldom.dev/)
 #### Github
 
 * [Project guidelines](https://github.com/elsewhencode/project-guidelines)
+* [JavaScript - questions](https://github.com/lydiahallie/javascript-questions)
