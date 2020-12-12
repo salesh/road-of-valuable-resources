@@ -5,13 +5,13 @@ Idea of this repository is to have on one place track of all valuable resources 
 ### Resources 
 
 #### Video
-* [YouTube - Things every developer absolutely, positively needs to know about database indexing - Kai Sassnowski
+* 🎥[YouTube - Things every developer absolutely, positively needs to know about database indexing - Kai Sassnowski
 ](https://youtu.be/HubezKbFL7E)
-* [YouTube - What the heck is the event loop anyway? | Philip Roberts | JSConf EU
+* 🎥[YouTube - What the heck is the event loop anyway? | Philip Roberts | JSConf EU
 ](https://youtu.be/8aGhZQkoFbQ)
-* [YouTube - Mastering Chaos - A Netflix Guide to Microservices
+* 🎥[YouTube - Mastering Chaos - A Netflix Guide to Microservices
 ](https://youtu.be/CZ3wIuvmHeM)
-* [YouTube - Jake Archibald: In The Loop - JSConf.Asia
+* 🎥[YouTube - Jake Archibald: In The Loop - JSConf.Asia
 ](https://youtu.be/cCOL7MC4Pl0)
 
 #### Books
