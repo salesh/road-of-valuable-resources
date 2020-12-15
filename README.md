@@ -56,5 +56,5 @@ with vanilla JavaScript only?](https://htmldom.dev/)
 
 #### Github
 
-* [Project guidelines](https://github.com/elsewhencode/project-guidelines)
-* [JavaScript - questions](https://github.com/lydiahallie/javascript-questions)
+* :octocat: [GitHub - Project guidelines](https://github.com/elsewhencode/project-guidelines) :white_check_mark:
+* :octocat: [GitHub - JavaScript - questions](https://github.com/lydiahallie/javascript-questions) :white_check_mark:
