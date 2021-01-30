@@ -54,7 +54,8 @@ with vanilla JavaScript only?](https://htmldom.dev/)
 * [NodeConf](https://www.nodeconfremote.com/)
 
 
-#### Github
+#### Github 
 
 * :octocat: [GitHub - Project guidelines](https://github.com/elsewhencode/project-guidelines) :white_check_mark:
 * :octocat: [GitHub - JavaScript - questions](https://github.com/lydiahallie/javascript-questions) :white_check_mark:
+* :octocat: [GitHub - Naming cheatsheet](https://github.com/kettanaito/naming-cheatsheet) :white_check_mark:
