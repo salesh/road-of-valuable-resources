@@ -48,6 +48,7 @@ with vanilla JavaScript only?](https://htmldom.dev/)
 * [Hackernewsletter weekly](https://hackernewsletter.com/)
 * [Programming Digest](https://programmingdigest.net/)
 * [3-2-1 Thursday](https://jamesclear.com/3-2-1)
+* [Adventures in Nodeland](https://nodeland.dev/)
 
 #### Events 
 
