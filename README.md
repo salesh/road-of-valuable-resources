@@ -13,6 +13,8 @@ Idea of this repository is to have on one place track of all valuable resources 
 ](https://youtu.be/CZ3wIuvmHeM)
 * 🎥[YouTube - Jake Archibald: In The Loop - JSConf.Asia
 ](https://youtu.be/cCOL7MC4Pl0)
+* 🎥[NodeConf EU | A deep dive into libuv - Saul Ibarra Coretge
+](https://youtu.be/sGTRmPiXD4Y)
 
 #### Books
 * [The Pragmatic Programmer, 20th Anniversary Edition
@@ -60,3 +62,6 @@ with vanilla JavaScript only?](https://htmldom.dev/)
 * :octocat: [GitHub - Project guidelines](https://github.com/elsewhencode/project-guidelines) :white_check_mark:
 * :octocat: [GitHub - JavaScript - questions](https://github.com/lydiahallie/javascript-questions) :white_check_mark:
 * :octocat: [GitHub - Naming cheatsheet](https://github.com/kettanaito/naming-cheatsheet) :white_check_mark:
+
+#### Other
+* ⌨️ [Practice typing - KeyBr](https://www.keybr.com/)
