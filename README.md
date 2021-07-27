@@ -63,5 +63,8 @@ with vanilla JavaScript only?](https://htmldom.dev/)
 * :octocat: [GitHub - JavaScript - questions](https://github.com/lydiahallie/javascript-questions) :white_check_mark:
 * :octocat: [GitHub - Naming cheatsheet](https://github.com/kettanaito/naming-cheatsheet) :white_check_mark:
 
+#### TOOLS
+* :octocat: [GitHub - MailCatcher ](https://github.com/sj26/mailcatcher)
+
 #### Other
 * ⌨️ [Practice typing - KeyBr](https://www.keybr.com/)
