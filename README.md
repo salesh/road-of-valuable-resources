@@ -49,8 +49,10 @@ with vanilla JavaScript only?](https://htmldom.dev/)
 * [Better Dev Link weekly](https://betterdev.link/)
 * [Hackernewsletter weekly](https://hackernewsletter.com/)
 * [Programming Digest](https://programmingdigest.net/)
+* [Tech Lead Digest](https://techleaddigest.net/)
 * [3-2-1 Thursday](https://jamesclear.com/3-2-1)
 * [Adventures in Nodeland](https://nodeland.dev/)
+* [Fullstack Bulletin](https://fullstackbulletin.com/)
 
 #### Events 
 
@@ -65,6 +67,10 @@ with vanilla JavaScript only?](https://htmldom.dev/)
 
 #### TOOLS
 * :octocat: [GitHub - MailCatcher ](https://github.com/sj26/mailcatcher)
+
+
+#### Courses
+* [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
 
 #### Other
 * ⌨️ [Practice typing - KeyBr](https://www.keybr.com/)
