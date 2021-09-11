@@ -34,6 +34,7 @@ with vanilla JavaScript only?](https://htmldom.dev/)
 * [Measure your site](https://web.dev/measure/)
 * [Software Licenses in Plain English](https://tldrlegal.com/)
 * [Can I use in browser](https://caniuse.com/)
+* [Free for dev - list of SaaS, PaaS and IaaS](https://github.com/ripienaar/free-for-dev)
 
 #### Articles
 * [4 Essential Steps to Securing a VPS
