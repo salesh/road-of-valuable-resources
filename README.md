@@ -1,4 +1,4 @@
-# Road-of-valuable-resources
+# Road of valuable resources
 
 Idea of this repository is to have on one place track of all valuable resources that helped me or improved me in any way. <br> I hope I will have regular updates with some new resources.
 
@@ -72,6 +72,9 @@ with vanilla JavaScript only?](https://htmldom.dev/)
 
 #### Courses
 * [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
+
+#### Podcasts
+* [Huberman Lab](https://hubermanlab.com/)
 
 #### Other
 * ⌨️ [Practice typing - KeyBr](https://www.keybr.com/)
