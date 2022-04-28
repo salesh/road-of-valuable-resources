@@ -21,6 +21,7 @@ Idea of this repository is to have on one place track of all valuable resources 
 ](https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/)
 * [Clean Code: A Handbook of Agile Software Craftsmanship
 ](https://www.oreilly.com/library/view/clean-code-a/9780136083238/)
+* [Algorithms to Live By: The Computer Science of Human Decisions](https://www.goodreads.com/book/show/25666050-algorithms-to-live-by)
 
 #### JS resource
 * [The Modern JavaScript Tutorial
