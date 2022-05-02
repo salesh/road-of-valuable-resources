@@ -42,6 +42,7 @@ with vanilla JavaScript only?](https://htmldom.dev/)
 ](https://maximorlov.com/4-essential-steps-to-securing-a-vps/)
 * [Gentle Explanation of "this" in JavaScript
 ](https://dmitripavlutin.com/gentle-explanation-of-this-in-javascript/)
+* [Becoming a better writer](https://newsletter.pragmaticengineer.com/p/becoming-a-better-writer)
 
 #### Weekly email newsletter
 
