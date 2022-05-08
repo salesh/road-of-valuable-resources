@@ -16,6 +16,9 @@ Idea of this repository is to have on one place track of all valuable resources 
 * 🎥[NodeConf EU | A deep dive into libuv - Saul Ibarra Coretge
 ](https://youtu.be/sGTRmPiXD4Y)
 
+##### Youtube channels
+* 🎥[Reducible - (visualization various things)](https://www.youtube.com/c/Reducible/videos)
+
 #### Books
 * [The Pragmatic Programmer, 20th Anniversary Edition
 ](https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/)
